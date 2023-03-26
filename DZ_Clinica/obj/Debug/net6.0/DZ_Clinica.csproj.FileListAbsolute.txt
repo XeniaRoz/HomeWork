@@ -1,0 +1,15 @@
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\bin\Debug\net6.0\DZ_Clinica.exe
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\bin\Debug\net6.0\DZ_Clinica.deps.json
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\bin\Debug\net6.0\DZ_Clinica.runtimeconfig.json
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\bin\Debug\net6.0\DZ_Clinica.dll
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\bin\Debug\net6.0\DZ_Clinica.pdb
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.csproj.AssemblyReference.cache
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.AssemblyInfoInputs.cache
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.AssemblyInfo.cs
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.dll
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\refint\DZ_Clinica.dll
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.pdb
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\DZ_Clinica.genruntimeconfig.cache
+C:\Users\Listr\source\repos\HomeWork\DZ_Clinica\obj\Debug\net6.0\ref\DZ_Clinica.dll
